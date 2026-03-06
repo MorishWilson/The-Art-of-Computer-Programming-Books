@@ -1,3 +1,5 @@
+![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)
+
 <table class="infobox biography vcard">
 <tbody>
 <tr>
